@@ -1,0 +1,69 @@
+{
+    "chart": {
+      "theme": "fusion",
+      "caption": "Grafik Pendapatan dari Lovebook",
+      "subCaption": "2021",
+      "xAxisName": "Bulan",
+      "yAxisName": "Pendapatan (Rp)",
+      "lineThickness": "2"
+    },
+    "data": [{
+        "label": "Jan",
+        "value": "625000"
+      },
+      {
+        "label": "Feb",
+        "value": "408000"
+      },
+      {
+        "label": "Mar",
+        "value": "520000"
+      },
+      {
+        "label": "Apr",
+        "value": "345000"
+      },
+      {
+        "label": "Mei",
+        "value": "460000"
+      },
+      {
+        "label": "Jun",
+        "value": "670000"
+      },
+      {
+        "label": "Jul",
+        "value": "720000"
+      },
+      {
+        "label": "Agu",
+        "value": "695000"
+      },
+      {
+        "label": "Sep",
+        "value": "585000"
+      },
+      {
+        "label": "Okt",
+        "value": "632000"
+      },
+      {
+        "label": "Nov",
+        "value": "540000"
+      },
+      {
+        "label": "Des",
+        "value": "570000"
+      }
+      
+    ],
+    "trendlines": [{
+      "line": [{
+        "startvalue": "520000",
+        "color": "#CE1212",
+        "displayvalue": "Rata-rata{br}pendapatan{br}pertahun",
+        "valueOnRight": "1",
+        "thickness": "2"
+      }]
+    }]
+  }
